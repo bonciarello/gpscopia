@@ -1,0 +1,4 @@
+Sitemap: https://cristianporco.it/app/convertitore-di-coordinate-gps-da-gradi-decimali-a-gradi-minuti-secondi-con-copi/sitemap.xml
+
+User-agent: *
+Allow: /
